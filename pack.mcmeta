@@ -1,6 +1,6 @@
 {
     "pack": {
-        "pack_format":10,
-        "description":"Self-contained (mostly) Dimensional 'Tickbuster' by minihilly. Inspired by Arcensoth's tickbuster datapack"
+        "pack_format": 10,
+        "description": "Subtick-Timer by minihilly, based (heavily) on Arcensoth's Tickbuster"
     }
 }

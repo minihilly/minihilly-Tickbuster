@@ -1,0 +1,15 @@
+{
+    "parent": "minihilly_tickbuster:internal",
+    "rewards": {
+      "function": "minihilly_tickbuster:host/main"
+    },
+    "criteria": {
+      "host": {
+        "trigger": "minecraft:impossible"
+      },
+      "enter_block": {
+        "trigger": "minecraft:enter_block"
+      }
+    }
+  }
+  
